@@ -68,7 +68,7 @@ docker run \
     --env="ZS_DBPassword=my_password" \
     --env="XXL_zapix=true" \
     --env="XXL_grapher=true" \
-    monitoringartist/dockbix-xxl:latest
+    urpyllika/dockbix-xxl:latest
 # Wait ~30 seconds for Zabbix initialization
 # Zabbix web will be available on the port 80, Zabbix server on the port 10051
 # Default credentials: Admin/zabbix
@@ -112,7 +112,7 @@ docker run \
     --env="XXL_grapher=true" \
     --env="ZJ_enabled=true" \
     --env="ZS_StartJavaPollers=3" \
-    monitoringartist/dockbix-xxl:latest
+    urpyllika/dockbix-xxl:latest
 
 ## HTTPS; for more complex setup overwrite /etc/nginx/hosts.d/ssl-nginx.conf
 docker run \
