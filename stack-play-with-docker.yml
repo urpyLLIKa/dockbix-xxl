@@ -11,7 +11,7 @@ services:
       - MARIADB_PASS=my_password
 
   zabbixserver:
-    image: monitoringartist/dockbix-xxl:latest
+    image: urpyllika/dockbix-xxl:latest
     depends_on:
       - zabbixdb
     ports:
