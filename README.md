@@ -129,7 +129,7 @@ docker run \
     --env="ZS_DBPassword=my_password" \
     --env="XXL_zapix=true" \
     --env="XXL_grapher=true" \
-    monitoringartist/dockbix-xxl:latest
+    urpyllika/dockbix-xxl:latest
 
 ## SNMP Trapper
 docker run \
@@ -146,7 +146,7 @@ docker run \
     --env="ZS_StartSNMPTrapper=1" \
     --env="XXL_zapix=true" \
     --env="XXL_grapher=true" \
-    monitoringartist/dockbix-xxl:latest
+    urpyllika/dockbix-xxl:latest
 ```
 
 #### Up and Running with Docker Compose
