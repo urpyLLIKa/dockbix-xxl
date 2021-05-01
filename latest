@@ -1,5 +1,5 @@
 {
 "display": 1,
-"version": "4.2.6 Dockbix XXL (2019-09-19)",
-"text": "<p style=\"font-size:80%\">New Dockbix Docker image version 4.2.6 Dockbix XXL (2019-09-19)  is available!. See <b><a href=\"https://hub.docker.com/r/urpyllika/dockbix-xxl/\" target=\"_blank\">urpyllika/dockbix-xxl:latest</a></b>.</p>"
+"version": "5.2.6 Dockbix XXL (2021-05-01)",
+"text": "<p style=\"font-size:80%\">New Dockbix Docker image version 5.2.6 Dockbix XXL (2021-05-01) is available!. See <b><a href=\"https://hub.docker.com/r/urpyllika/dockbix-xxl/\" target=\"_blank\">urpyllika/dockbix-xxl:latest</a></b>.</p>"
 }

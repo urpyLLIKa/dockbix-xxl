@@ -1,4 +1,4 @@
-# This is Fork project. Need support 4.2 Zabbix. Thanks a lot to the monitoringartist for his work.
+# This is Fork project. Need support 5.2 Zabbix. Thanks a lot to the monitoringartist for his work.
 
 [<img src="https://monitoringartist.github.io/managed-by-monitoringartist.png" alt="Managed by Monitoring Artist: DevOps / Docker / Kubernetes / AWS ECS / Zabbix / Zenoss / Terraform / Monitoring" align="right"/>](http://www.monitoringartist.com 'DevOps / Docker / Kubernetes / AWS ECS / Zabbix / Zenoss / Terraform / Monitoring')
 
